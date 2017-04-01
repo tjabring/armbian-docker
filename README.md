@@ -1,5 +1,4 @@
-I'm using this fork to get a good working docker building enviroment for Armbian. Also make a few updates, like building on a non Ubuntu/Debian host and using a Ubuntu Xenial 16.04 x64 container.
-This repository also aims to provide container for building [Armbian](https://github.com/igorpecovnik/lib) and is based on the work done by 3mdeb - Embedded Systems Consulting
+I'm using this fork to get a good working docker building environment for Armbian. Also make a few updates, like building on a non Ubuntu/Debian host and using a Ubuntu Xenial 16.04 x64 container. This repository also aims to provide container for building Armbian and is based on the work done by 3mdeb - Embedded Systems Consulting
 
 Assumptions:
 
